@@ -20,7 +20,7 @@ The rapid prototype should demonstrate how the identity system enables an indivi
 * Sending and receiving binding legal notices; and
 * Standing as a candidate or voting in local elections
 
-# Participation
+# Team Participation
 
 To register your team project for the Sovereign Legal Identity Challenge, submit a [GitHub Issue](https://github.com/mitmedialab/SLIC/issues/new) with the following information: 
 * The name of your project and your team name;
