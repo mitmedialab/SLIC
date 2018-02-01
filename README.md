@@ -45,8 +45,7 @@ More information on challenge criteria and additional prizes and awards will be 
 
 We'll provide an overview of the Sovereign Legal Identity Challenge and go over questions about how to submit a team project during this live Google Hangout on Tuesday, February 13th at 8:00 PM Eastern / 5:00 PM Pacific: 
 
-Direct Link: [http://youtu.be/SgQRrJNpdwU](http://youtu.be/SgQRrJNpdwU)
+Direct Video Link: [http://youtu.be/SgQRrJNpdwU](http://youtu.be/SgQRrJNpdwU)
 
 Video Embed: 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/SgQRrJNpdwU" frameborder="0" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgQRrJNpdwU?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
