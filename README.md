@@ -1,6 +1,6 @@
 # The Sovereign Legal Identity Challenge
 
-**Teams participating in the Legal Hackers 2018 [Computational Law and Blockchain Festival] are encouraged to develop a project that addresses the following design and rapid prototype challenge:
+**Teams participating in the Legal Hackers 2018 [Computational Law and Blockchain Festival] are encouraged to develop a project that addresses the following design and rapid prototype challenge:**
 
 Develop a conceptual design and rapid prototype demonstrating how individuals can use blockchain technology to generate, use and control their own digital identities.  
 
