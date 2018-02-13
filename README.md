@@ -1,7 +1,6 @@
 # The Sovereign Legal Identity Challenge
 
-[Add the name and URL of the Festival Node your team is participating in here]
-![b0-beta5_400x400](https://user-images.githubusercontent.com/2357755/36170407-4e805438-10cd-11e8-83d3-bec45fae27c1.jpg)
+![photo feb 13 2 55 58 pm](https://user-images.githubusercontent.com/2357755/36170746-4164a1fe-10ce-11e8-83f7-9f23cd64d649.jpg)
 
 **Teams participating in the Legal Hackers 2018 [Computational Law and Blockchain Festival](https://legalhackers.org/clbfest2018) are encouraged to tackle the [Sovereign Legal Identity Challenge](https://mitmedialab.github.io/SLIC) with a high level design concept and rapid prototype project:**
 
