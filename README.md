@@ -29,7 +29,11 @@ To register your team project for the Sovereign Legal Identity Challenge, submit
 * The names of your team members including the GitHub username of at least one member;
 * The URL of the GitHub repository where your project will be developed and submitted;
 * The URL of the YouTube Channel where your team will submit video; and
-* The name and URL of the Festival Node your team is participating in
+* The name and URL of the Festival Node your team is participating in.
+
+## Identity Challenge Wiki
+
+We are adding resources and links on a rolling basis to help catalyze ideas and support development of projects on our challenge wiki, here: [https://github.com/mitmedialab/SLIC/wiki](https://github.com/mitmedialab/SLIC/wiki)
 
 # Criteria and Judging
 
