@@ -51,6 +51,7 @@ More information on challenge criteria and additional prizes and awards will be 
 
 Our panel of judges includes:
 * John Muller, [https://www.linkedin.com/in/mullerjohn](https://www.linkedin.com/in/mullerjohn)
+* Mica Altman [https://www.linkedin.com/in/micahaltman](https://www.linkedin.com/in/micahaltman)
 * Elizabeth Renieris [https://www.linkedin.com/in/elizabethrenieris](https://www.linkedin.com/in/elizabethrenieris)
 * Christian Smith [https://www.linkedin.com/in/christianmsmith](https://www.linkedin.com/in/christianmsmith)
 
