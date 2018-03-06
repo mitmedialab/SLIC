@@ -50,9 +50,9 @@ More information on challenge criteria and additional prizes and awards will be 
 ## Judges
 
 Our panel of judges includes:
-* John Muller
-* Elizabeth Releiras
-* Christian Smith
+* John Muller, [https://www.linkedin.com/in/mullerjohn](https://www.linkedin.com/in/mullerjohn)
+* Elizabeth Renieris [https://www.linkedin.com/in/elizabethrenieris](https://www.linkedin.com/in/elizabethrenieris)
+* Christian Smith [https://www.linkedin.com/in/christianmsmith](https://www.linkedin.com/in/christianmsmith)
 
 # Live Hangout
 
