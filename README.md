@@ -47,6 +47,13 @@ Final team projects will be reviewed and rated by a panel of invited judges.  Ev
 
 More information on challenge criteria and additional prizes and awards will be added to this challenge page as they are finalized.
 
+## Judges
+
+Our panel of judges includes:
+* John Muller
+* Elizabeth Releiras
+* Christian Smith
+
 # Live Hangout
 
 We'll provide an overview of the Sovereign Legal Identity Challenge and go over questions about how to submit a team project during this live Google Hangout on Tuesday, February 13th at 8:00 PM Eastern / 5:00 PM Pacific: 
