@@ -51,13 +51,14 @@ More information on challenge criteria and additional prizes and awards will be 
 
 Our panel of judges includes:
 * John Muller, [https://www.linkedin.com/in/mullerjohn](https://www.linkedin.com/in/mullerjohn)
-* Mica Altman [https://www.linkedin.com/in/micahaltman](https://www.linkedin.com/in/micahaltman)
 * Elizabeth Renieris [https://www.linkedin.com/in/elizabethrenieris](https://www.linkedin.com/in/elizabethrenieris)
 * Christian Smith [https://www.linkedin.com/in/christianmsmith](https://www.linkedin.com/in/christianmsmith)
+* Andre Boysen [https://www.linkedin.com/in/aboysen](https://www.linkedin.com/in/aboysen/)
+* Mica Altman [https://www.linkedin.com/in/micahaltman](https://www.linkedin.com/in/micahaltman)
 
 # Live Hangout
 
-We'll provide an overview of the Sovereign Legal Identity Challenge and go over questions about how to submit a team project during this live Google Hangout on Tuesday, February 13th at 8:00 PM Eastern / 5:00 PM Pacific: 
+A Google Hangout on Tuesday, February 13th at 8:00 PM Eastern / 5:00 PM Pacific was produced to provide a general overview and to go over questions about how to submit a team project for the Sovereign Legal Identity Challenge  
 
 Direct Video Link: [http://youtu.be/SgQRrJNpdwU](http://youtu.be/SgQRrJNpdwU)
 
