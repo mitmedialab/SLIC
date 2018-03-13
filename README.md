@@ -64,3 +64,9 @@ Direct Video Link: [http://youtu.be/SgQRrJNpdwU](http://youtu.be/SgQRrJNpdwU)
 
 Video Embed: 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SgQRrJNpdwU?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+Additional resources relevant to this challenge will be posted and updated from time to time on the pages of this wiki.
+
+# Terms & Conditions
+
+Participation in this challenge is subject the standard terms and conditions at: [https://mitmedialab.github.io/SLIC/TermsAndConditions.html](https://mitmedialab.github.io/SLIC/TermsAndConditions.html)
