@@ -24,12 +24,7 @@ The rapid prototype should demonstrate how the identity system enables an indivi
 
 # Team Participation
 
-To register your team project for the Sovereign Legal Identity Challenge, submit a [GitHub Issue](https://github.com/mitmedialab/SLIC/issues/new) with the following information: 
-* The name of your project and your team name;
-* The names of your team members including the GitHub username of at least one member;
-* The URL of the GitHub repository where your project will be developed and submitted;
-* The URL of the YouTube Channel where your team will submit video; and
-* The name and URL of the Festival Node your team is participating in.
+To register your team project for the Sovereign Legal Identity Challenge, sign up on this form: [https://goo.gl/forms/uD8AfZyGHlqwtl6h1](https://goo.gl/forms/uD8AfZyGHlqwtl6h1)
 
 ## Wiki and Scenarios
 
