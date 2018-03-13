@@ -1,6 +1,6 @@
 # 2018 COMPUTATIONAL LAW AND BLOCKCHAIN FESTIVAL
-# SOVEREIGN LEGAL IDENTITY CHALLENGE
-# PARTICIPATION TERMS AND CONDITIONS
+> SOVEREIGN LEGAL IDENTITY CHALLENGE
+> PARTICIPATION TERMS AND CONDITIONS
 
 ## LEGAL
 
@@ -20,7 +20,7 @@ The winner may not request substitutions of the Award. The winner is solely resp
 
 **How to participate in the Challenge and submit a SOVEREIGN LEGAL IDENTITY CHALLENGE project:**
 
-The Challenge will be held during the 2018 Computational Law and Blockchain Festival at each of the following distributed nodes [http://legalhackers.org/clbfest2018-host/](https://www.google.com/url?q=http://legalhackers.org/clbfest2018-host/&sa=D&ust=1520970074681000&usg=AFQjCNFLkw23tYhqUztEcdLUTOYwwMVtuQ)worldwide starting on March 16, 2018 and after 24 hours (with the exceptions of Jakarta and Wellington, which will begin hacking early on next Friday 3/16 morning US time). Prior to the start time, you must be registered at your particular node to participate in the Challenge online. You must be at least 18 years old in order to participate in the Challenge. Details about the challenge are available at: [https://mitmedialab.github.io/SLIC/](https://www.google.com/url?q=https://mitmedialab.github.io/SLIC/&sa=D&ust=1520970074681000&usg=AFQjCNEyVZf_oNGqoS32kXf0cRwTI1tm_Q)
+The Challenge will be held during the 2018 Computational Law and Blockchain Festival at each of the following distributed nodes [http://legalhackers.org/clbfest2018-host/](https://www.google.com/url?q=http://legalhackers.org/clbfest2018-host/&sa=D&ust=1520970074681000&usg=AFQjCNFLkw23tYhqUztEcdLUTOYwwMVtuQ) worldwide starting on March 16, 2018 and after 24 hours (with the exceptions of Jakarta and Wellington, which will begin hacking early on next Friday 3/16 morning US time). Prior to the start time, you must be registered at your particular node to participate in the Challenge online. You must be at least 18 years old in order to participate in the Challenge. Details about the challenge are available at: [https://mitmedialab.github.io/SLIC/](https://www.google.com/url?q=https://mitmedialab.github.io/SLIC/&sa=D&ust=1520970074681000&usg=AFQjCNEyVZf_oNGqoS32kXf0cRwTI1tm_Q)
 
 ## SUBMISSIONS
 
