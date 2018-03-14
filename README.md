@@ -40,9 +40,8 @@ Teams are expected to:
 * Present their final project in a 2 minute or shorter video clip uploaded to YouTube under Creative Commons license;
 * Provide their final project materials (including any slides, video and other media, documentation, working code, etc) through a GitHub repository under an open source license.
 
-Final team projects will be reviewed and rated by a panel of invited judges.  Evaluation criteria will be added to this challenge page after an initial meeting of the judges and prior to the start of the CL+B Festival event.  The top team projects will be determined based on rank order resulting from an aggregate of the ratings by each judge.  The team submitting the top ranked, highest rated project will be invited to present the project in-person at MIT to interested students, faculty and researchers.  
+Final team projects will be reviewed and rated by a panel of invited judges.  Evaluation criteria will be added to this challenge page after an initial meeting of the judges and prior to the start of the CL+B Festival event.  The top team projects will be determined based on rank order resulting from an aggregate of the ratings by each judge.  The team submitting the top ranked, highest rated project will be invited to present the project in-person at MIT.
 
-More information on challenge criteria and additional prizes and awards will be added to this challenge page as they are finalized.
 
 ## Judges
 
@@ -57,13 +56,30 @@ Our panel of judges includes:
 
 There will be a 0.5 ETH prize sponsored and provided by RelateID for the winner of this challenge, and the winning team will have an opportunity to present at the MIT Media Lab.
 
-# Live Hangout
+# Live Hangouts
+
+### Discussion of Principles for Sovereign Legal Identity
+
+As part of the Computational Law and Blockchain Festival, the Washington, DC node and Boston-MIT node will co-host this live discussion of general, high level principes for sovereign legal identity at 3:30 PM Eastern on Saturday, March 17th, 2018
+
+* Direct Video Link: [http://youtu.be/t3scs6-olFY](http://youtu.be/t3scs6-olFY)
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/t3scs6-olFY" frameborder="0" allowfullscreen></iframe>
+
+### Short Overview for Teams
+
+This Google Hangout OnAir on Thursday, March 15th at 1:45 PM Eastern provides a brief overview for teams submitting projects for the Sovereign Legal Identity Challenge.  
+
+* Direct Video Link: [https://youtu.be/xbPdUiJ6dC8](https://youtu.be/xbPdUiJ6dC8)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xbPdUiJ6dC8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+### Introduction to the Identity Challenge
 
 A Google Hangout on Tuesday, February 13th at 8:00 PM Eastern / 5:00 PM Pacific was produced to provide a general overview and to go over questions about how to submit a team project for the Sovereign Legal Identity Challenge  
 
 Direct Video Link: [http://youtu.be/SgQRrJNpdwU](http://youtu.be/SgQRrJNpdwU)
 
-Video Embed: 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SgQRrJNpdwU?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Additional resources relevant to this challenge will be posted and updated from time to time on the pages of this wiki.
