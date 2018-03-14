@@ -55,7 +55,7 @@ Our panel of judges includes:
 
 # Prizes
 
-There will be a 0.5 ETH prize for the winner of this challenge, and the winning team will have an opportunity to present at the MIT Media Lab.
+There will be a 0.5 ETH prize sponsored and provided by RelateID for the winner of this challenge, and the winning team will have an opportunity to present at the MIT Media Lab.
 
 # Live Hangout
 
