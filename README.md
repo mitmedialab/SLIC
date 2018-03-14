@@ -64,7 +64,7 @@ As part of the Computational Law and Blockchain Festival, the Washington, DC nod
 
 * Direct Video Link: [http://youtu.be/t3scs6-olFY](http://youtu.be/t3scs6-olFY)
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/t3scs6-olFY" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t3scs6-olFY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### Short Overview for Teams
 
