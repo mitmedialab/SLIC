@@ -58,6 +58,8 @@ There will be a 0.5 ETH prize sponsored and provided by RelateID for the winner 
 
 # Live Hangouts
 
+----------
+
 ### Discussion of Principles for Sovereign Legal Identity
 
 As part of the Computational Law and Blockchain Festival, the Washington, DC node and Boston-MIT node will co-host this live discussion of general, high level principes for sovereign legal identity at 3:30 PM Eastern on Saturday, March 17th, 2018
@@ -65,6 +67,8 @@ As part of the Computational Law and Blockchain Festival, the Washington, DC nod
 * Direct Video Link: [http://youtu.be/t3scs6-olFY](http://youtu.be/t3scs6-olFY)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t3scs6-olFY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+--------------
 
 ### Short Overview for Teams
 
@@ -74,13 +78,16 @@ This Google Hangout OnAir on Thursday, March 15th at 1:45 PM Eastern provides a 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xbPdUiJ6dC8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+-------------
+
 ### Introduction to the Identity Challenge
 
 A Google Hangout on Tuesday, February 13th at 8:00 PM Eastern / 5:00 PM Pacific was produced to provide a general overview and to go over questions about how to submit a team project for the Sovereign Legal Identity Challenge  
 
-Direct Video Link: [http://youtu.be/SgQRrJNpdwU](http://youtu.be/SgQRrJNpdwU)
+Direct Video Link: [http://youtu.be/SgQRrJNpdwU](http://youtu.be/SgQRrJNpdwU)     
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgQRrJNpdwU?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgQRrJNpdwU?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>      
+
 
 Additional resources relevant to this challenge will be posted and updated from time to time on the pages of this wiki.
 
