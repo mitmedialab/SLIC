@@ -4,6 +4,8 @@
 
 **Teams participating in the Legal Hackers 2018 [Computational Law and Blockchain Festival](https://legalhackers.org/clbfest2018) are encouraged to tackle the [Sovereign Legal Identity Challenge](https://mitmedialab.github.io/SLIC) with a high level design concept and rapid prototype project:**
 
+This challenge is presented by law.MIT.edu at the MIT Media Lab and offers a # Prizes 0.5 ETH prize for the winner of this challenge.  The winning team will also have an opportunity to present at the MIT Media Lab.
+
 ## Conceptual Design
 
 Develop a conceptual design and rapid prototype demonstrating how individuals can use blockchain technology to generate, use and control their own digital identities.  
@@ -50,6 +52,10 @@ Our panel of judges includes:
 * Christian Smith [https://www.linkedin.com/in/christianmsmith](https://www.linkedin.com/in/christianmsmith)
 * Andre Boysen [https://www.linkedin.com/in/aboysen](https://www.linkedin.com/in/aboysen/)
 * Mica Altman [https://www.linkedin.com/in/micahaltman](https://www.linkedin.com/in/micahaltman)
+
+# Prizes
+
+There will be a 0.5 ETH prize for the winner of this challenge, and the winning team will have an opportunity to present at the MIT Media Lab.
 
 # Live Hangout
 
