@@ -26,7 +26,13 @@ The rapid prototype should demonstrate how the identity system enables an indivi
 
 # Team Participation
 
-To register your team project for the Sovereign Legal Identity Challenge, sign up on this form: [https://goo.gl/forms/uD8AfZyGHlqwtl6h1](https://goo.gl/forms/uD8AfZyGHlqwtl6h1)
+**Register Your Team Project:** 
+
+* To register your team project for the Sovereign Legal Identity Challenge, sign up on this form: [https://goo.gl/forms/uD8AfZyGHlqwtl6h1](https://goo.gl/forms/uD8AfZyGHlqwtl6h1).  
+
+**Submit Your Team Project:** 
+
+* When you have finished your project, please submit it BEFORE the 24 deadline defined by the [schedule at your local node](http://legalhackers.org/clbfest2018-host/).  Submit your final project by completing this form: [https://docs.google.com/forms/d/e/1FAIpQLSdUlxp9FI3jAWhUMVvQ7kDirdP-ghjyYzBA9ISA0RKd-9cvvQ/viewform](https://docs.google.com/forms/d/e/1FAIpQLSdUlxp9FI3jAWhUMVvQ7kDirdP-ghjyYzBA9ISA0RKd-9cvvQ/viewform)
 
 ## Wiki and Scenarios
 
