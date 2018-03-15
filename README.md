@@ -46,10 +46,6 @@ The rapid prototype should demonstrate how the identity system enables an indivi
 
 * When you have finished your project, please submit it BEFORE the 24 deadline defined by the [schedule at your local node](http://legalhackers.org/clbfest2018-host/).  Submit your final project by completing this form: [https://docs.google.com/forms/d/e/1FAIpQLSdUlxp9FI3jAWhUMVvQ7kDirdP-ghjyYzBA9ISA0RKd-9cvvQ/viewform](https://docs.google.com/forms/d/e/1FAIpQLSdUlxp9FI3jAWhUMVvQ7kDirdP-ghjyYzBA9ISA0RKd-9cvvQ/viewform)
 
-## Wiki and Scenarios
-
-We are adding resources and links on a rolling basis to help catalyze ideas and support development of projects on our challenge wiki, here: [https://github.com/mitmedialab/SLIC/wiki](https://github.com/mitmedialab/SLIC/wiki) where your team is hacking.  We are also collecting scenarios to help think about future fact patterns and situations as a potential focus for projects or discussions at: [https://mitmedialab.github.io/SLIC/Scenarios.html](https://mitmedialab.github.io/SLIC/Scenarios.html).
-
 # Criteria and Judging
 
 Teams are expected to:
