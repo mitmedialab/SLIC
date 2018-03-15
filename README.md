@@ -6,6 +6,16 @@
 
 > This challenge is presented by law.MIT.edu at the MIT Media Lab and offers a # Prizes 0.5 ETH prize for the winner of this challenge.  The winning team will also have an opportunity to present at the MIT Media Lab.
 
+**Short Overview for Event Organizers and Teams Around the World**
+
+This Google Hangout OnAir on Thursday, March 15th at 1:45 PM Eastern provides a brief overview for teams submitting projects for the Sovereign Legal Identity Challenge.  
+
+* Direct Video Link: [https://youtu.be/Mbtfh4ANozs](https://youtu.be/Mbtfh4ANozs)
+
+<iframe width="560" height="315" src="https://youtu.be/Mbtfh4ANozs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+-------------
+
 ## Conceptual Design
 
 Develop a conceptual design and rapid prototype demonstrating how individuals can use blockchain technology to generate, use and control their own digital identities.  
@@ -75,16 +85,6 @@ As part of the Computational Law and Blockchain Festival, the Washington, DC nod
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t3scs6-olFY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 --------------
-
-### Short Overview for Teams
-
-This Google Hangout OnAir on Thursday, March 15th at 1:45 PM Eastern provides a brief overview for teams submitting projects for the Sovereign Legal Identity Challenge.  
-
-* Direct Video Link: [https://youtu.be/Mbtfh4ANozs](https://youtu.be/Mbtfh4ANozs)
-
-<iframe width="560" height="315" src="https://youtu.be/Mbtfh4ANozs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
--------------
 
 ### Introduction to the Identity Challenge
 
