@@ -1,18 +1,18 @@
 # The Sovereign Legal Identity Challenge
 
-<img width="544" alt="screen shot 2018-02-13 at 3 00 36 pm" src="https://user-images.githubusercontent.com/2357755/36170884-bda9a61a-10ce-11e8-8bc2-1207a0dac997.png">
-
-**Teams participating in the Legal Hackers 2018 [Computational Law and Blockchain Festival](https://legalhackers.org/clbfest2018) are encouraged to tackle the [Sovereign Legal Identity Challenge](https://mitmedialab.github.io/SLIC) with a high level design concept and rapid prototype project:**
-
-> This challenge is presented by law.MIT.edu at the MIT Media Lab and offers a # Prizes 0.5 ETH prize for the winner of this challenge.  The winning team will also have an opportunity to present at the MIT Media Lab.
+<img width="300" alt="screen shot 2018-02-13 at 3 00 36 pm" src="https://user-images.githubusercontent.com/2357755/36170884-bda9a61a-10ce-11e8-8bc2-1207a0dac997.png">
 
 **Short Overview for Event Organizers and Teams Around the World**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Mbtfh4ANozs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 This Google Hangout OnAir on Thursday, March 15th at 1:45 PM Eastern provides a brief overview for teams submitting projects for the Sovereign Legal Identity Challenge.  
 
 * Direct Video Link: [https://youtu.be/Mbtfh4ANozs](https://youtu.be/Mbtfh4ANozs)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Mbtfh4ANozs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+**Teams participating in the Legal Hackers 2018 [Computational Law and Blockchain Festival](https://legalhackers.org/clbfest2018) are encouraged to tackle the [Sovereign Legal Identity Challenge](https://mitmedialab.github.io/SLIC) with a high level design concept and rapid prototype project:**
+
+> This challenge is presented by law.MIT.edu at the MIT Media Lab and offers a # Prizes 0.5 ETH prize for the winner of this challenge.  The winning team will also have an opportunity to present at the MIT Media Lab.
 
 -------------
 
@@ -67,6 +67,9 @@ Our panel of judges includes:
 * Mica Altman [https://www.linkedin.com/in/micahaltman](https://www.linkedin.com/in/micahaltman)
 
 # Prizes
+
+![unnamed](https://user-images.githubusercontent.com/2357755/37487213-43ab0d4e-2867-11e8-8154-b1ec653e5d31.png)
+
 
 There will be a 0.5 ETH prize sponsored and provided by RelateID for the winner of this challenge, and the winning team will have an opportunity to present at the MIT Media Lab.
 
