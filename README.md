@@ -80,9 +80,9 @@ As part of the Computational Law and Blockchain Festival, the Washington, DC nod
 
 This Google Hangout OnAir on Thursday, March 15th at 1:45 PM Eastern provides a brief overview for teams submitting projects for the Sovereign Legal Identity Challenge.  
 
-* Direct Video Link: [https://youtu.be/xbPdUiJ6dC8](https://youtu.be/xbPdUiJ6dC8)
+* Direct Video Link: [https://youtu.be/Mbtfh4ANozs](https://youtu.be/Mbtfh4ANozs)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xbPdUiJ6dC8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/Mbtfh4ANozs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 -------------
 
