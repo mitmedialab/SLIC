@@ -16,6 +16,8 @@ This Google Hangout OnAir on Thursday, March 15th at 1:45 PM Eastern provides a 
 
 -------------
 
+# The Challenge
+
 ## Conceptual Design
 
 Develop a conceptual design and rapid prototype demonstrating how individuals can use blockchain technology to generate, use and control their own digital identities.  
