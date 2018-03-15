@@ -12,11 +12,11 @@ This Google Hangout OnAir on Thursday, March 15th at 1:45 PM Eastern provides a 
 
 * Direct Video Link: [https://youtu.be/Mbtfh4ANozs](https://youtu.be/Mbtfh4ANozs)
 
-> This challenge is presented by law.MIT.edu at the MIT Media Lab and offers a # Prizes 0.5 ETH prize for the winner of this challenge.  The winning team will also have an opportunity to present at the MIT Media Lab.
-
 -------------
 
 # The Challenge
+
+> This challenge is presented by law.MIT.edu at the MIT Media Lab and offers a # Prizes 0.5 ETH prize for the winner of this challenge.  The winning team will also have an opportunity to present at the MIT Media Lab.
 
 ## Conceptual Design
 
