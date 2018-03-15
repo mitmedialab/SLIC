@@ -68,9 +68,6 @@ Our panel of judges includes:
 
 # Prizes
 
-![unnamed](https://user-images.githubusercontent.com/2357755/37487213-43ab0d4e-2867-11e8-8154-b1ec653e5d31.png)
-
-
 There will be a 0.5 ETH prize sponsored and provided by RelateID for the winner of this challenge, and the winning team will have an opportunity to present at the MIT Media Lab.
 
 # Live Hangouts
@@ -101,3 +98,12 @@ Additional resources relevant to this challenge will be posted and updated from 
 # Terms & Conditions
 
 Participation in this challenge is subject the standard terms and conditions at: [https://mitmedialab.github.io/SLIC/TermsAndConditions.html](https://mitmedialab.github.io/SLIC/TermsAndConditions.html)
+
+------------------
+
+**Many thanks to our prize sponsor:**
+
+![unnamed](https://user-images.githubusercontent.com/2357755/37487213-43ab0d4e-2867-11e8-8154-b1ec653e5d31.png)
+
+
+
