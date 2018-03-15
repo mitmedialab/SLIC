@@ -2,7 +2,7 @@
 
 <img width="300" alt="screen shot 2018-02-13 at 3 00 36 pm" src="https://user-images.githubusercontent.com/2357755/36170884-bda9a61a-10ce-11e8-8bc2-1207a0dac997.png">
 
-**Teams participating in the Legal Hackers 2018 [Computational Law and Blockchain Festival](https://legalhackers.org/clbfest2018) are encouraged to tackle the [Sovereign Legal Identity Challenge](https://mitmedialab.github.io/SLIC) with a high level design concept and rapid prototype project:**
+Teams participating in the Legal Hackers 2018 [Computational Law and Blockchain Festival](https://legalhackers.org/clbfest2018) are encouraged to tackle the [Sovereign Legal Identity Challenge](https://mitmedialab.github.io/SLIC) with a high level design concept and rapid prototype project.
 
 **Short Overview for Event Organizers and Teams Around the World**
 
