@@ -65,6 +65,7 @@ Our panel of judges includes:
 * Christian Smith [https://www.linkedin.com/in/christianmsmith](https://www.linkedin.com/in/christianmsmith)
 * Andre Boysen [https://www.linkedin.com/in/aboysen](https://www.linkedin.com/in/aboysen/)
 * Mica Altman [https://www.linkedin.com/in/micahaltman](https://www.linkedin.com/in/micahaltman)
+* Adam Gunther [https://www.linkedin.com/in/adam-gunther-122564a](https://www.linkedin.com/in/adam-gunther-122564a)
 
 # Prizes
 
