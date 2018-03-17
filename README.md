@@ -100,6 +100,8 @@ Direct Video Link: [http://youtu.be/SgQRrJNpdwU](http://youtu.be/SgQRrJNpdwU)
 
 This new YouTube video from the uPort team at ConsenSys was specially customized for participants in the Sovereign Legal Identity Challenge and other CL+B Fest "Hack Track" teams working on identity related projects.  This video is provided under the Creative Commons license and covers the react/uPort code boilerplate, how to register a new decentralized application on uPort AppManager and editing some of the essential code. 
 
+* **Hackathon developer resources:** [https://github.com/mitmedialab/SLIC/wiki](https://github.com/mitmedialab/SLIC/wiki)
+
 * Direct link to video: [https://youtu.be/h7J-SYUOqeA](https://youtu.be/h7J-SYUOqeA)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h7J-SYUOqeA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
